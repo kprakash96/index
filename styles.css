@@ -1,0 +1,169 @@
+body {
+  background-color: #ffffff;
+  text-align: center;
+  margin: 0;
+  font-family: 'Courier Prime', monospace;
+}
+
+.top-container {
+  background-color: #e1f4f3;
+  text-align: center;
+  padding: 20px;
+  padding-bottom: 0;
+}
+
+.middle-container {
+  background-color: #ffffff;
+  text-align: center;
+  padding: 20px;
+  padding-bottom: 100px;
+}
+
+.bottom-container {
+  background-color: #e1f4f3;
+  text-align: center;
+  padding: 0 20px 20px 20px;
+}
+
+#name {
+  font-size: 6.25rem;
+  padding-top: 200px;
+}
+
+h1 {
+  color: #333333;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding: 20px;
+  font-size: 5rem;
+  font-weight: bolder;
+}
+
+h2 {
+  color: #333333;
+  margin-top: 0;
+  margin-bottom: 10;
+  font-size: 4rem;
+}
+
+h3 {
+  color: #333333;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 3rem;
+}
+
+h4 {
+  color: #333333;
+  margin: 0;
+  font-size: 1.5rem;
+  font-weight: normal;
+}
+
+p {
+  color: #333333;
+  margin: 10px auto 10px auto;
+  font-size: 1.5rem;
+}
+
+li {
+  color: #333333;
+  margin: 10px auto 10px auto;
+  font-size: 1.5rem;
+}
+
+.img-book {
+  height: 200px;
+  padding-top: 20px;
+  padding-bottom: 50px;
+}
+
+.img-hello {
+  height: 200px;
+  padding-bottom: 20px;
+}
+
+.img-research {
+  height: 200px;
+  padding: 30px;
+  float: left;
+}
+
+.img-clinical {
+  height: 200px;
+  padding: 30px;
+  float: right;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-top-color: #706c61;
+  border-top-width: 5px;
+  width: 4%;
+}
+
+.profile {
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.interests {
+  padding-top: 100px;
+}
+
+.interest-lists {
+  width: 70%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.contact-me {
+  padding-top: 100px;
+  padding-bottom: 10px;
+}
+
+.copyright{
+  font-size: 1rem;
+}
+.h3-clinical {
+  padding-left: 40px
+}
+
+.btn {
+	background-color:#706c61;
+	border-radius:14px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:'Courier Prime', monospace;
+	font-size:1rem;
+	padding:15px 23px;
+	text-decoration:none;
+}
+.btn:hover {
+	background-color:#b3ad9c;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+
+.btn-li {
+	background-color:#706c61;
+	border-radius:14px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:'Courier Prime', monospace;
+	font-size:1rem;
+	padding:15px 23px;
+	text-decoration:none;
+}
+.btn-li:hover {
+	background-color:#b3ad9c;
+}
+.btn-li:active {
+	position:relative;
+	top:1px;
+}
